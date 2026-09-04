@@ -34,7 +34,7 @@ DB_HOST=193.203.166.25
 DB_PORT=3306
 DB_DATABASE=u968601890_task_manager
 DB_USERNAME=u968601890_alexadmin
-DB_PASSWORD=Al3x2026
+DB_PASSWORD=
 ```
 
 Después se crean las tablas:
